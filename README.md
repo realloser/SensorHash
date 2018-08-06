@@ -1,7 +1,7 @@
 # Generated of hashes for sensor ID
 
 B9FC4586: node: 1: Sample project using Arduino Pro Micro
-FA24C2A3
+FA24C2A3: UNO Test
 B67E35B8
 5890B9E6
 F3AB6980
